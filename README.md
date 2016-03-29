@@ -1,0 +1,2 @@
+# swiki
+mywiki
